@@ -5,7 +5,7 @@ CRUD Example of Spring-Boot-REST (Courses)
    https://github.com/gandhapodi-k/courses-crud-operations.git
 2. Import project into IntelliJ IDE
    File -> Open -> Browse Project from cloned location
-3. Right click on Application.java file and run as Java Application 
+3. Right click on CourseApplication.java file and run as Java Application 
 
 4. Once Sprint Boot Application will be started successfully then we can call following Endpoints by using POSTMAN
    Environments/API-Collections/Courses.postman_collection.json
